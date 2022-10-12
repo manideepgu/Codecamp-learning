@@ -1,0 +1,14 @@
+#appleshelf {
+    background-color: aqua;
+    width: 200px;
+    height: 20px;
+    align-items: center;
+    margin: 200px;
+}
+#orangeshelf {
+    background-color: rgb(168, 253, 9);
+    width: 200px;
+    height: 20px;
+    align-items: center;
+    margin: 200px
+}
